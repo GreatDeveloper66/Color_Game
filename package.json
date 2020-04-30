@@ -14,7 +14,7 @@
   "author": "Adam Shaffer",
   "license": "MIT",
   "devDependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "sass": "^1.22.10"
   },
   "dependencies": {}
